@@ -1,0 +1,16 @@
+﻿0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+1,TxPIDVID,N/A,N/A,N/A,3,GetTXPidVid
+0,-Set CH1 ANT1 RF Power,N/A,N/A,N/A,3,dongleAnt1Ch1
+2,Ant1_RF_POWER_2402_CH1,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2402
+0,-Set CH20 ANT1 RF Power,N/A,N/A,N/A,3,dongleAnt1Ch20
+3,Ant1_RF_POWER_2440_CH20,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2440
+4,TX Frequency Offset,kHz,-40,40,5,dllname=N9320B&method=Skewing&读取频段=2476
+0,-Set CH38 ANT1 RF Power,N/A,N/A,N/A,3,dongleAnt1Ch38
+5,Ant1_RF_POWER_2476_CH38,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2476
+0,-Set CH1 ANT2 RF Power,N/A,N/A,N/A,3,dongleAnt2Ch1
+6,Ant2_RF_POWER_2402_CH1,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2402
+0,-Set CH20 ANT2 RF Power,N/A,N/A,N/A,3,dongleAnt2Ch20
+7,Ant2_RF_POWER_2440_CH20,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2440
+8,TX Frequency Offset,kHz,-40,40,5,dllname=N9320B&method=Skewing&读取频段=2476
+0,-Set CH38 ANT2 RF Power,N/A,N/A,N/A,3,dongleAnt2Ch38
+9,Ant2_RF_POWER_2476_CH38,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2476

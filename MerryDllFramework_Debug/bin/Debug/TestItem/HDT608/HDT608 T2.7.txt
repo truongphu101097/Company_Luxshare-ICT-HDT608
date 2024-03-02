@@ -1,0 +1,6 @@
+﻿0,-1s,N/A,N/A,N/A,6,dllname=Common&延时=sleep&时间=1000
+1,PairID,N/A,N/A,N/A,3,GetDongleID
+2,Get Battery Voltage,V,3.83,4.2,2,GetBatteryVoltage
+3,Play Music Test,N/A,N/A,N/A,6,dllname=Audio&指令选择=PlayTest&装置名称=HyperX&选择音频=0&显示内容信息=播放音乐测试/Kiểm tra phát nhạc
+4,Play Guest Music,N/A,N/A,N/A,4,dllname=Audio&指令选择=PlayTest&装置名称=HyperX&选择音频=1&显示内容信息=請確認敲門聲是否正常/Vui lòng xác nhận âm thanh gõ cửa nghe bình thường
+5,Record And Play Record,N/A,N/A,N/A,4,dllname=Audio&录音测试=RecordTest&装置名称=HyperX&显示内容信息=录音测试/Kiểm tra ghi âm&显示内容信息=播放录音/Phát âm thanh ghi âm

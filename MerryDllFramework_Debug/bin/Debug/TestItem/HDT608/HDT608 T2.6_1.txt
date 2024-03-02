@@ -1,0 +1,14 @@
+﻿1,Headset_GetRXPidVid,N/A,N/A,N/A,3,GetRXPidVid
+2,Dongle_TX_VID&PID,N/A,N/A,N/A,3,GetTXPidVid
+3,GET_Check_RX_Av FW,N/A,N/A,N/A,3,GetHeadsetFW
+4,GET_Check_TX_Av FW,N/A,N/A,N/A,3,GetDongleFW
+5,PairID,N/A,N/A,N/A,3,GetDongleID
+6,Pair,N/A,N/A,N/A,3,Pair
+7,Dongle_GetDeviceName,N/A,N/A,N/A,3,GetDeviceName
+8,Headset_GetDeviceName,N/A,N/A,N/A,3,GetDeviceName
+9,Mute key test,N/A,N/A,N/A,1,MuteButtonTest
+10,VolumeUp Test,N/A,N/A,N/A,1,VolumeUp
+11,VolumeDown Test,N/A,N/A,N/A,1,VolumeDown
+0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+12,Measure Current,mA,100,450,5,dllname=_8342_V1&method=A_DC&NewRange=0.5&Count=1
+0,+-PowerOff,N/A,N/A,N/A,1,PowerOff

@@ -1,0 +1,13 @@
+﻿1,TX_VID&PID,N/A,P0C8CV03F0,P0C8CV03F0,1,GetTXPidVid
+2,RX_VID&PID,N/A,P0A91V03F0,P0A91V03F0,1,GetRXPidVid
+3,GetDongleFW,N/A,V4.1.0.1,V4.1.0.1,1,GetDongleFW
+4,GetHeadsetFW,N/A,V3.1.0.1,V3.1.0.1,1,GetHeadsetFW
+5,PairID,N/A,N/A,N/A,3,GetDongleID
+6,Pair,N/A,N/A,N/A,3,Pair
+7,DongleName,N/A,HyperX Cloud Flight for PS,HyperX Cloud Flight for PS,1,GetDeviceName
+8,HeadsetName,N/A,HyperX Cloud Flight for PS,HyperX Cloud Flight for PS,1,GetDeviceName
+9,VolumeDown Test,N/A,N/A,N/A,1,VolumeDown
+10,VolumeUp Test,N/A,N/A,N/A,1,VolumeUp
+11,Mute key test,N/A,N/A,N/A,1,MuteButtonTest
+0,-Unplug TypeC,N/A,N/A,N/A,6,dllname=Common&弹窗判断=forms&显示信息=请拔线/Vui lòng cắm dây TypeC
+12,Measure Current,mA,100,450,5,dllname=_8342_V1&method=A_DC&NewRange=0.5&Count=1

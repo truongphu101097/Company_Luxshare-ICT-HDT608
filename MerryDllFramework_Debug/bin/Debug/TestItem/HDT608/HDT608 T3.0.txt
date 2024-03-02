@@ -1,0 +1,5 @@
+﻿1,DelayedTime,N/A,N/A,N/A,4,dllname=Common&使用方法=sleep&显示内容或延时=500
+2,Mic maximum sound,N/A,N/A,N/A,1,MICVOL
+3,SPK maximum sound,N/A,N/A,N/A,1,SPKVOL
+4,Run soundcheck,N/A,N/A,N/A,4,dllname=SoundCheck&使用方式=Start&窗体名称=&按键名称=
+5,Get soundcheck results,N/A,N/A,N/A,4,dllname=SoundCheck&读取SC结果=GetreSult&弹窗名字=&检测到弹窗后输入的按键=

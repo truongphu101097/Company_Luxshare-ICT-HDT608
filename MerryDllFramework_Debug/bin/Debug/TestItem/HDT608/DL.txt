@@ -1,0 +1,7 @@
+﻿0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+1,打开Sound Check,N/A,N/A,N/A,4,dllname=SoundCheck&method=OpenSoundCheck
+2,OpenSoundCheck,N/A,N/A,N/A,4,dllname=SoundCheck&method=OpenSoundCheck
+3,Sound Check建立连接,N/A,N/A,N/A,4,dllname=SoundCheck&method=ConnectSoundCheck
+4,Sound Check执行文件,N/A,N/A,N/A,4,dllname=SoundCheck&method=RunSequence
+5,SoundCheck开始测试,N/A,N/A,N/A,4,dllname=SoundCheck&method=StartTest&Sleep=1000

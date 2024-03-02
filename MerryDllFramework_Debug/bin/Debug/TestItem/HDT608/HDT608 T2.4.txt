@@ -1,0 +1,14 @@
+﻿0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+0,-uA mode,N/A,N/A,N/A,6,dllname=_8342_V1&method=A_DC&NewRange=0.0005&Count=3
+0,-请开机,N/A,N/A,N/A,6,dllname=Common&弹窗判断=forms&显示信息=请开机/Vui lòng mở máy
+0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+1,Off Mode Current,μA,0,60,5,dllname=_8342_V1&method=A_DC&NewRange=0.0005&Count=1
+0,-mA mode,N/A,N/A,N/A,6,dllname=_8342_V1&method=A_DC&NewRange=0.5&Count=3
+0,-请开机,N/A,N/A,N/A,6,dllname=Common&弹窗判断=forms&显示信息=请开机/Vui lòng mở máy
+0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+2,Power On Current,mA,75,110,5,dllname=_8342_V1&method=A_DC&NewRange=0.5&Count=1
+0,-uA mode,N/A,N/A,N/A,6,dllname=_8342_V1&method=A_DC&NewRange=0.0005&Count=3
+0,-请关机,N/A,N/A,N/A,6,dllname=Common&弹窗判断=forms&显示信息=请关机/Vui lòng tắt máy
+0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+3,Power Off Current,μA,0,60,5,dllname=_8342_V1&method=A_DC&NewRange=0.0005&Count=1

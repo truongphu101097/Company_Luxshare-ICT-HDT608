@@ -1,0 +1,213 @@
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT668.dll
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT668.pdb
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.pdb
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\MerryTestFramework.testitem.xml
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csprojAssemblyReference.cache
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT668.dll
+C:\Users\CH190360\Desktop\MerryTE\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT668.pdb
+C:\Users\CH200001\Desktop\merry-sw\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT668.dll
+C:\Users\CH200001\Desktop\merry-sw\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\HDT668.pdb
+C:\Users\CH200001\Desktop\merry-sw\MerryDllFramework_Debug\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH200001\Desktop\merry-sw\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\merry-sw\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\merry-sw\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH200001\Desktop\merry-sw\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT668.dll
+C:\Users\CH200001\Desktop\merry-sw\MerryDllFramework_Debug\MerryDllFramework\obj\Debug\HDT668.pdb
+C:\Users\CH200001\Desktop\mech-sw\Type_Name DLL\MerryDllFramework\bin\Debug\HDT668.dll
+C:\Users\CH200001\Desktop\mech-sw\Type_Name DLL\MerryDllFramework\bin\Debug\HDT668.pdb
+C:\Users\CH200001\Desktop\mech-sw\Type_Name DLL\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\CH200001\Desktop\mech-sw\Type_Name DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csprojAssemblyReference.cache
+C:\Users\CH200001\Desktop\mech-sw\Type_Name DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\CH200001\Desktop\mech-sw\Type_Name DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\CH200001\Desktop\mech-sw\Type_Name DLL\MerryDllFramework\obj\Debug\HDT668.dll
+C:\Users\CH200001\Desktop\mech-sw\Type_Name DLL\MerryDllFramework\obj\Debug\HDT668.pdb
+E:\机型资料\DELL\AW920H\IHT911\Type_Name DLL\MerryDllFramework\bin\Debug\IHT911.dll
+E:\机型资料\DELL\AW920H\IHT911\Type_Name DLL\MerryDllFramework\bin\Debug\IHT911.pdb
+E:\机型资料\DELL\AW920H\IHT911\Type_Name DLL\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\机型资料\DELL\AW920H\IHT911\Type_Name DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\机型资料\DELL\AW920H\IHT911\Type_Name DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\机型资料\DELL\AW920H\IHT911\Type_Name DLL\MerryDllFramework\obj\Debug\IHT911.dll
+E:\机型资料\DELL\AW920H\IHT911\Type_Name DLL\MerryDllFramework\obj\Debug\IHT911.pdb
+E:\机型资料\DELL\AW920H\IHT911\Type_Name DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\bin\Debug\IHT911.dll
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\bin\Debug\IHT911.pdb
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\obj\Debug\IHT911.dll
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\obj\Debug\IHT911.pdb
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\机型资料\DELL\AW920H\IHT911\INT911_DLl\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\bin\Debug\IHT911.dll
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\bin\Debug\IHT911.pdb
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\obj\Debug\IHT911.dll
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\obj\Debug\IHT911.pdb
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+E:\机型资料\DELL\AW920H\IHT911\IHT911_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\bin\Debug\IHT911.dll
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\bin\Debug\IHT911.pdb
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\bin\Debug\SwATE_Net.dll
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\bin\Debug\CommonControl.dll
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\bin\Debug\SwATE_Net.dll.config
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\obj\Debug\IHT911.dll
+D:\Work\SourceCode\AW920H(IHT911) SW\AW920H(IHT911) SW\Code\IHT911_DLL\MerryDllFramework\obj\Debug\IHT911.pdb
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\bin\Debug\HDT668.dll
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\bin\Debug\HDT668.pdb
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\obj\Debug\HDT668.dll
+E:\SW\Chung\668\HDT668_DLL\MerryDllFramework\obj\Debug\HDT668.pdb
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\bin\Debug\HDT638.dll
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\bin\Debug\HDT638.pdb
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\HDT638.dll
+E:\ChungDS\2_SourceCode\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\HDT638.pdb
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\bin\Debug\HDT638.dll
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\bin\Debug\HDT638.pdb
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\HDT638.dll
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\HDT638.pdb
+F:\8_LUXSHARE\HDT638\HDT638_TEST\HDT638_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.Messages.resources
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\bin\Debug\HDT608.dll
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\bin\Debug\HDT608.pdb
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.Messages.resources
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\obj\Debug\HDT608.dll
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\obj\Debug\HDT608.pdb
+E:\ChungDS\2_SourceCode\220808\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.Messages.resources
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\bin\Debug\HDT608.dll
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\bin\Debug\HDT608.pdb
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\obj\Debug\HDT608.dll
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\obj\Debug\HDT608.pdb
+E:\2. MEVNSW\1_SourceCode\4_HPX\HDT608\SRC\HDT608_DLL\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\bin\Debug\HDT608.dll
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\bin\Debug\HDT608.pdb
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\obj\Debug\MerryDllFramework.Messages.resources
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\obj\Debug\HDT608.dll
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL 2022.12.28\HDT608_DLL 2022.12.28\MerryDllFramework\obj\Debug\HDT608.pdb
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\bin\Debug\HDT608.dll
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\bin\Debug\HDT608.pdb
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\obj\Debug\MerryDllFramework.Messages.resources
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\obj\Debug\HDT608.dll
+D:\RuanWenQiang\CongViec\SourceCode\HDT608_DLL\HDT608_DLL 2023.11.16\MerryDllFramework\obj\Debug\HDT608.pdb
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\MerryDllFramework.Messages.resources
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\MerryDllFramework.Selected.resources
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\MerryDllFramework.View.resources
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\HDT608.dll
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\HDT608.pdb
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\bin\Debug\HDT608.dll
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\bin\Debug\HDT608.pdb
+C:\Users\Administrator\Desktop\HDT608_DLL 2023.11.16.1\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\bin\Debug\HDT608.dll
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\bin\Debug\HDT608.pdb
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.Messages.resources
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.Selected.resources
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.View.resources
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\HDT608.dll
+C:\Users\Administrator\Desktop\HDT608\MerryDllFramework\obj\Debug\HDT608.pdb
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\bin\Debug\HDT608.dll
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\bin\Debug\HDT608.pdb
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.Messages.resources
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.Selected.resources
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.View.resources
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\HDT608.dll
+C:\Users\91204140\Desktop\ICP002\HDT608\MerryDllFramework\obj\Debug\HDT608.pdb
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\bin\Debug\HDT608.dll
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\bin\Debug\HDT608.pdb
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.Color.resources
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\MerryTest.testitem.MessageBoxs.resources
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.Messages.resources
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\HDT668_HID_CMD.ProgressBars.resources
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.Selected.resources
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.View.resources
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.GenerateResource.cache
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CoreCompileInputs.cache
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.CopyComplete
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\HDT608.dll
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\HDT608.pdb
+C:\Users\91204140\Downloads\HDT608\MerryDllFramework\obj\Debug\MerryDllFramework.csproj.AssemblyReference.cache

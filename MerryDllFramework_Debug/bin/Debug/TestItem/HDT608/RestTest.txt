@@ -1,0 +1,3 @@
+﻿0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+1,测试电流,mA,250,550,5,dllname=_8342_V1&method=A_DC_CT&NewRange=0.5&Count=2

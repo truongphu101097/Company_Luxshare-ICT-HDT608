@@ -1,0 +1,5 @@
+﻿1,TX_VID&PID,N/A,P0C8CV03F0,P0C8CV03F0,1,GetTXPidVid
+2,RX_VID&PID,N/A,P0A91V03F0,P0A91V03F0,1,GetRXPidVid
+3,Headphone Keypad,N/A,N/A,N/A,1,DongleButtonTest
+0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+4,FW VERSION Check,N/A,V4.1.0.1,V4.1.0.1,1,GetDongleFW

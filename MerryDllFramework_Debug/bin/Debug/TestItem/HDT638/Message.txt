@@ -1,0 +1,12 @@
+﻿PlayMusic=播放音乐
+PlayCustomerMusic=播放客户音乐
+RadioFrequencyMusic=播放射频音乐
+Record=录音中
+===========上面部分为必须区域,只允许修改上面部分value,不允许增加或者删删除===========
+DongleLED=dongle是否按键后亮/灭
+HeadsetRedLED=头戴LED是否变为红色
+HeadsetGreenLED=头戴LED是否变为绿色
+SideTone=对麦克风说话并且听耳机中是否有回音
+MuteButtonTest,=请按mute键
+MuteLED=静音LED测试
+Surround=环绕音测试

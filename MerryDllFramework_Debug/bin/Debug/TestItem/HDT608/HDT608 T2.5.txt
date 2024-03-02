@@ -1,0 +1,17 @@
+﻿0,-RF RXHeadsetName,N/A,N/A,N/A,3,GetDeviceName
+0,-1s,N/A,N/A,N/A,6,dllname=Common&延时=sleep&时间=1000
+0,-RX CH1 ANT1 RF Power,N/A,N/A,N/A,3,headsetAnt1Ch1
+1,2402_ANT1_RF_POWER_,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2402
+0,-RX CH20 ANT1 RF Power,N/A,N/A,N/A,3,headsetAnt1Ch20
+2,2440_ANT1_RF_POWER_,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2440
+3,2440_ANT1_Frequency_Offset,kHz,-40,40,5,dllname=N9320B&method=Skewing&读取频段=2440
+0,-RX CH38 ANT1 RF Power,N/A,N/A,N/A,3,headsetAnt1Ch38
+4,2476_ANT1_RF_POWER,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2476
+0,-RX CH1 ANT2 RF Power,N/A,N/A,N/A,3,headsetAnt2Ch1
+5,2402_ANT2_RF_POWER,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2402
+0,-RX CH20 ANT2 RF Power,N/A,N/A,N/A,3,headsetAnt2Ch20
+6,2440_ANT2_RF_POWER,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2440
+7,2440_ANT2_Frequency_Offset,kHz,-40,40,5,dllname=N9320B&method=Skewing&读取频段=2440
+0,-RX CH38 ANT2 RF Power,N/A,N/A,N/A,3,headsetAnt2Ch38
+8,2476_ANT2_RF_POWER,dBm,-4,4,5,dllname=N9320B&method=Peak&读取频段=2476
+0,-+组立开箱,N/A,N/A,N/A,6,dllname=Common&串口调试=send_read&串口=COM1&写入字符串=open1

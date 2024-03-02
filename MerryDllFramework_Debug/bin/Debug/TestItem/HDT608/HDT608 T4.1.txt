@@ -1,0 +1,12 @@
+﻿1,TX_VID&PID,N/A,P0C8CV03F0,P0C8CV03F0,3,GetTXPidVid
+2,RX_VID&PID,N/A,P0A91V03F0,P0A91V03F0,3,GetRXPidVid
+3,Check TX_Av FW,N/A,V4.1.0.1,V4.1.0.1,3,GetDongleFW
+4,Check RX_Av FW,N/A,V3.1.0.1,V3.1.0.1,3,GetHeadsetFW
+5,PairID,N/A,N/A,N/A,3,GetDongleID
+6,DongleName,N/A,HyperX Cloud Flight for PS,HyperX Cloud Flight for PS,1,GetDeviceName
+7,HeadsetName,N/A,HyperX Cloud Flight for PS,HyperX Cloud Flight for PS,1,GetDeviceName
+8,Play Music Test,N/A,N/A,N/A,4,dllname=Audio&指令选择=PlayTest&装置名称=HyperX&选择音频=0&显示内容信息=播放音乐测试/Kiểm tra phát nhạc
+9,Record And Play Record,N/A,N/A,N/A,4,dllname=Audio&录音测试=RecordTest&装置名称=HyperX&显示内容信息=录音测试/Kiểm tra ghi âm&显示内容信息=播放录音/Phát âm thanh ghi âm
+0,-Un Connect TypeC,N/A,N/A,N/A,4,dllname=Common_V1&method=MessageBox&Message=Vui lòng rút TypeC ra / 请取出TypeC
+0,-延时  1S,N/A,N/A,N/A,6,dllname=Common&method=Sleep&millisecond=1000
+10,Get Battery Voltage,V,3.83,4.2,2,GetBatteryVoltage
